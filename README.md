@@ -1,2 +1,6 @@
 # hello-world
-Just a repository for new user
+
+Hi, Humans!
+
+Here, I am a software engineer who does never use github before.
+This is my first trial!
